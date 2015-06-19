@@ -5,6 +5,7 @@
 // This is the simpler-looking version of our GUI.
 //
 // Created: Chip Audette, Oct 2013 - May 2014
+// Modified: Max Jackson, June 2015
 //
 // Requires gwoptics graphing library for processing.  Built on V0.5.0
 // http://www.gwoptics.org/processing/gwoptics_p5lib/

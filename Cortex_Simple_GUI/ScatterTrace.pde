@@ -5,6 +5,7 @@
 // X-Y line plot created using gwoptics graphing library
 //
 // Created: Chip Audette, May 2014
+// Modified: Max Jackson, June 2015 
 //
 // Based on examples in gwoptics graphic library v0.5.0
 // http://www.gwoptics.org/processing/gwoptics_p5lib/
